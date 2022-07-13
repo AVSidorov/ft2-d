@@ -1,0 +1,132 @@
+[MainWindow]
+Create=1
+Visible=1
+State=2
+Left=4
+Top=4
+Width=640
+Height=106
+MaxLeft=0
+MaxTop=1
+MaxWidth=1032
+MaxHeight=106
+ClientWidth=1024
+ClientHeight=60
+
+[ProjectManager]
+LargeButtons=1
+Column0Width=75
+Column1Width=125
+Column2Width=125
+
+[PropertyInspector]
+Create=1
+Visible=1
+State=0
+Left=0
+Top=121
+Width=232
+Height=596
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=224
+ClientHeight=572
+SplitPos=105
+
+[HistoryLists\hiOpenFile]
+Count=18
+H0=d:\ft-2data\ft-2d mk iii sid\ft2d.pas
+H1=d:\ft-2data\ft-2d mk iii sid\ft2dpr.dpr
+H2=d:\ft-2data\ft-2d mk iii sid\page.pas
+H3=d:\ft-2data\ft-2d mk iii sid\ft2d_set.pas
+H4=d:\ft-2data\ft-2d mk iii sid\ft2d_sav.pas
+H5=d:\ft-2data\ft-2d mk iii sid\ft2d_inp.pas
+H6=d:\ft-2data\ft-2d mk iii sid\ft2d_dat.pas
+H7=d:\ft-2data\ft-2d mk iii sid\lcard_32.pas
+H8=d:\ft-2data\osc\oscpr.dpr
+H9=d:\ft-2data\ft-2d\ft2d.pas
+H10=d:\ft-2data\ft-2d\ft2d.dfm
+H11=d:\ft-2data\osc\osc_dat.pas
+H12=d:\ft-2data\real\ft2d_set.dfm
+H13=d:\ft-2data\test\ft2d.pas
+H14=d:\ft-2data\soft32.dpr
+H15=d:\ft-2data\show32.pas
+H16=d:\ft-2data\lcard_32.pas
+H17=d:\xray\work\dl99_16.pas
+
+[HistoryLists\hiUnitAlias]
+Count=1
+H0=WinTypes=Windows;WinProcs=Windows;DbiTypes=BDE;DbiProcs=BDE;DbiErrs=BDE;
+
+[Closed Files]
+File_0=SourceModule,'D:\FT-2Data\FT-2D Mk III Sid\FT2D_Dat.pas',0,1,107,1,107,0,0
+File_1=SourceModule,'D:\FT-2Data\FT-2D Mk III Sid\FT2D_Inp.pas',0,1,1,15,1,1,1
+File_2=SourceModule,'D:\FT-2Data\FT-2D Mk III Sid\FT2D_Sav.pas',0,1,208,5,221,1,1
+File_3=SourceModule,'D:\FT-2Data\FT-2D Mk III Sid\FT2D_Set.pas',0,1,270,1,276,3,0
+File_4=SourceModule,'D:\FT-2Data\FT-2D Mk III Sid\Lcard_32.pas',0,1,1,18,1,0,0
+File_5=SourceModule,'D:\FT-2Data\FT-2D Mk III Sid\page.pas',0,1,136,1,136,0,0
+File_6=SourceModule,'D:\FT-2Data\FT-2D Mk III\FT2D.pas',0,1,488,11,498,1,1
+File_7=SourceModule,'D:\FT-2Data\FT-2D Mk III\FT2D_Dat.pas',0,1,409,3,428,0,0
+File_8=SourceModule,'D:\FT-2Data\FT-2D Mk III\FT2D_Inp.pas',0,1,118,1,118,1,1
+
+[Modules]
+Module0=D:\FT-2Data\FT-2D Mk III Sid\FT2D.pas
+Module1=D:\FT-2Data\FT-2D Mk III Sid\FT2Dpr.dpr
+Module2=D:\FT-2Data\FT-2D Mk III\FT2Dpr.dpr
+Module3=D:\FT-2Data\FT-2D Mk III Analog\FT2Dpr.dpr
+Count=4
+EditWindowCount=1
+
+[D:\FT-2Data\FT-2D Mk III Sid\FT2D.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[D:\FT-2Data\FT-2D Mk III Sid\FT2Dpr.dpr]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[D:\FT-2Data\FT-2D Mk III\FT2Dpr.dpr]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[D:\FT-2Data\FT-2D Mk III Analog\FT2Dpr.dpr]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[EditWindow0]
+Create=1
+Visible=1
+State=0
+Left=210
+Top=128
+Width=696
+Height=486
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=688
+ClientHeight=459
+SplitPos=-1
+MessagePane=0
+ViewCount=1
+CurrentView=0
+View0=0
+
+[View0]
+Module=D:\FT-2Data\FT-2D Mk III Sid\FT2D.pas
+CursorX=1
+CursorY=546
+TopLine=534
+LeftCol=1
+
+[Watches]
+Count=0
+
+[Breakpoints]
+Count=2
+Breakpoint0='D:\FT-2Data\FT-2D Mk III Sid\FT2D.pas',308,'',0,1
+Breakpoint1='D:\FT-2Data\FT-2D Mk III Sid\FT2D.pas',498,'',0,1
+
